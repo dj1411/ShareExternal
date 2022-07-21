@@ -1,6 +1,7 @@
 # Only whitelisted files
 *
 !.gitignore
-!.gitignore is a whitelist.txt
-!IncomeTax.zip
+!gitignore is a whitelist.txt
+!IncomeTax.zip.001
+!IncomeTax.zip.002
 !CompensationLetter.zip
